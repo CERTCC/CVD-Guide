@@ -119,7 +119,7 @@ disclosure of information about software and system vulnerabilities.
     The CERT/CC has already encountered cases where the question of _who owns an algorithm_
     has been a significant factor in the vulnerability coordination process.
 
-    In [VU#425163](https://kb.cert.org/vuls/id/425163){:target="_blank"} _Machine learning classifiers trained via gradient descent are vulnerable to arbitrary misclassification attack_,
+    In [VU#425163](https://kb.cert.org/vuls/id/425163){:target="\_blank"} _Machine learning classifiers trained via gradient descent are vulnerable to arbitrary misclassification attack_,
     we highlighted the fact that all classifiers trained via gradient descent are vulnerable to adversarial examples.
     But with whom should we coordinate to fix this problem? The authors of the paper that defined the gradient descent algorithm?
     While those authors might be interested in following up on the problem in a future paper, they are not the ones who have deployed the algorithm in a system,
